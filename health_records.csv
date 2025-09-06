@@ -1,0 +1,6 @@
+Patient_ID,ICD_Code,Admission_Date,Discharge_Date,Notes
+1,E11,1/5/2024,1/12/2024,Patient stable
+2,I10,2/10/2024,2/15/2024,Needs follow-up
+3,,3/1/2024,,
+4,J45,3/15/2024,3/20/2024,Mild symptoms
+5,J10,4/2/2024,4/4/2024,Recovered
